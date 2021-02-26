@@ -1,6 +1,14 @@
 # Changelog for formsflow.ai
 Mark  items as `Added`, `Changed`, `Fixed`, `Removed`, `Untested Features`, `Upcoming Features`
 
+## 4.0.1-alpha - 2021-02-26
+`Ongoing`
+* Task dashboard has been revamped with new look and feel; which would allow more control on data and stream updates.
+
+`Changed`
+* Updated Main menu to Top
+
+
 ## 4.0.0-alpha - 2021-02-19
 `Ongoing`
 * Task dashboard has been revamped with new look and feel; which would allow more control on data and stream updates.
